@@ -1,0 +1,5 @@
+thumbor-filter-drfi-env/*
+build/*
+dist/*
+drfi.egg-info/*
+drfi/data/model/*
